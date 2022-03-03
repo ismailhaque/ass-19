@@ -1,0 +1,14 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "developer apiiii",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 5050"
+  },
+  "author": "Md Ismail Haque",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "developer": [
+    {
+      "id": 1,
+      "name": "Md Ismail",
+      "age": 60,
+      "skill": 7,
+      "location": "Jibonpur",
+      "income": 1000,
+      "gender": "male",
+      "image": "https://www.lfwf.io/uploads/studentProfile/1638732225.png"
+    },
+    {
+      "id": 3,
+      "name": "Md NAimul",
+      "age": 20,
+      "skill": 1,
+      "location": "Joypurhat",
+      "income": 900,
+      "gender": "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSPfiI_c7w35OP_l6Uuj3_rOp0XrACdFnpnvXGr0NU_CErpyUzv-oblaPoFEJj70AI4E&usqp=CAU"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skill": "Django"
+    },
+    {
+      "id": 2,
+      "skill": "wp developer"
+    },
+    {
+      "id": 3,
+      "skill": "laravel developer"
+    },
+    {
+      "id": 4,
+      "skill": "php developer"
+    },
+    {
+      "id": 5,
+      "skill": "golan"
+    },
+    {
+      "id": 6,
+      "skill": "javascript"
+    },
+    {
+      "id": 7,
+      "skill": "MERN stack"
+    }
+  ]
+}
